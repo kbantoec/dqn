@@ -1,0 +1,10 @@
+.idea/
+venv/
+__pycache__/
+data/
+drl/
+.ipynb_checkpoints/
+*.pdf
+rl_trader_cps/
+rl_trader_models/
+rl_trader_rewards/
